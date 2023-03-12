@@ -7,4 +7,4 @@ Desenvolvedores:
 
 
 # Funcionalidades:
-
+O programa inicializa com um menu de seleção, mostrando para usuário as opções de inicializar o programa com tecla A ou sair com a tecla Q

@@ -7,4 +7,5 @@ Desenvolvedores:
 
 
 # Funcionalidades:
-O programa inicializa com um menu de seleção, mostrando para usuário as opções de inicializar o programa com tecla A ou sair com a tecla Q
+O programa inicializa com um menu de seleção, mostrando para usuário as opções de inicializar o programa com tecla A ou sair com a tecla Q.
+No caso do usuário selecionar A: O programa irá pedir para ele entrar com o Nome e a sua Relação com a instituição( sendo as opções: Aluno, Professor, Coordenador, Diretor, Administrativo ou Vestibulando).

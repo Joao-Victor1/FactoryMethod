@@ -6,6 +6,5 @@ Desenvolvedores:
 - Larissa de Oliveira Santos (https://github.com/Larissa-Santos16)
 
 
-#Funcionalidades:
-
+# Funcionalidades:
 

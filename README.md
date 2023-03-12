@@ -5,6 +5,8 @@ Desenvolvedores:
 - João Victor Lopes Silva (https://github.com/Joao-Victor1)
 - Larissa de Oliveira Santos (https://github.com/Larissa-Santos16)
 
+# Funcionalidades
+
 O programa inicializa com um menu de seleção, mostrando para usuário as opções de inicializar o programa com tecla A ou sair com a tecla Q. 
 No caso do usuário selecionar A: O programa irá pedir para entrar com o Nome e a Relação com a instituição (sendo as opções: Aluno, Professor, Coordenador, Diretor, Administrativo ou Vestibulando).
 o programa irá efetuar uma verificação e se a relação for autenticada, aparecerá a mensagem: XXXXXXXX tem relação com a instituição como XXXXXXXXXXXXX. Se não for possível autenticar a relação o programa exibirá a mensagem: XXXXXXXX não tem nenhuma relação com a instituição, acompanhar até a secretaria
